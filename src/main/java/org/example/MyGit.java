@@ -6,5 +6,6 @@ public class MyGit {
         System.out.println("chuzi");
         System.out.println("thrid");
         System.out.println("4");
+        System.out.println("qqq");
     }
 }
