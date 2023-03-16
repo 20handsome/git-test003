@@ -7,5 +7,6 @@ public class MyGit {
         System.out.println("thrid");
         System.out.println("4");
         System.out.println("qqq");
+        System.out.println("push");
     }
 }
